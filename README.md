@@ -20,6 +20,11 @@ ENEGENHEIRO ELETRICISTA E TELECOMUNICAÇÕES | PYTHONISTA.
   <img align="center" alt="CBTAS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CBTAS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CBTAS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CBTAS-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain-wordmark.svg">
+  <img align="center" alt="CBTAS-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
+  <img align="center" alt="CBTAS-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="CBTAS-MATLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="CBTAS-VS-CODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
  </div>
      
   ##
