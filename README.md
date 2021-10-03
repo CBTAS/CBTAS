@@ -25,6 +25,7 @@ ENEGENHEIRO ELETRICISTA E TELECOMUNICAÇÕES | PYTHONISTA.
   <img align="center" alt="CBTAS-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="CBTAS-MATLAB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="CBTAS-VS-CODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  
  </div>
      
   ##
@@ -33,6 +34,7 @@ ENEGENHEIRO ELETRICISTA E TELECOMUNICAÇÕES | PYTHONISTA.
 
   <a href = "mailto:borromeu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosborromeu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <!-- <a href = ""><img src="https://img.shields.io/badge/AutoCAD-AutoLISP-success" target="_blank"></a> -->
  
   <!-- ![Snake animation](https://github.com/CBTAS/CBTAS/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
