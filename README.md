@@ -3,10 +3,10 @@
 Hi, I'm CARLOS BORROMEU
 ENEGENHEIRO ELETRICISTA E TELECOMUNICAÇÕES | PYTHONISTA.
 
-- 🔭 Atualmente trabalho com tecnologia e projetos em CAD, programacao em Auto-LISP e desenvolvimento de aplicativos em Python.
-- 🌱 Atualmente estou fazendo BOOTCAMPS para adiquirir e solidificar as novas linguagens e frameworks (DJANGO, ROBOT), Selenium, PANDAS, ETL, AZURE, AWS
+- 🔭 Trabalho com tecnologia e projetos em CAD, desenvolvimento de programas em Auto-LISP e desenvolvimento de aplicativos em Python.
+- 🌱 BOOTCAMPS para adiquirir e solidificar as novas linguagens e frameworks (DJANGO, ROBOT), Selenium, PANDAS, ETL, AZURE, AWS
 - 💬 Meu email para contato: borromeu@gmail.com
-- 😄 Pronouns: ele/dele
+
 - ⚡ Fun fact: Gosto de fazer mudas de tudo quanto é planta, pega semente e fazer mudas.
 
 <div align="center">
